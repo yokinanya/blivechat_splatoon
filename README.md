@@ -1,6 +1,6 @@
 # Splatoon3弹幕样式
 
-来源：https://t.bilibili.com/711619147032690688
+来源：https://www.bilibili.com/opus/711619147032690688
 修改内容：将所有图片上传至Github，修改图片引用方式，不再需要使用特定的blivechat
 
 # 使用方法
